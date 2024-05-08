@@ -109,6 +109,7 @@ GEM
       jekyll (~> 4.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-tabs (1.0.0)
     jekyll-toc (0.18.0)
       jekyll (>= 3.9)
       nokogiri (~> 1.12)
@@ -193,6 +194,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-scholar
   jekyll-sitemap
+  jekyll-tabs
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
