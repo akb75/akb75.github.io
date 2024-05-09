@@ -1,6 +1,5 @@
 ---
 layout: page
-publish: false
 title: submenus
 nav: true
 nav_order: 8
@@ -14,4 +13,5 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+published: false
 ---
