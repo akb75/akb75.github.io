@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Kungsleden, Sweden
-date: 2022-08-02 12:40:16
+date: 2022-08-17 12:40:16
 description: Northern Part of the Kungsleden, Sweden
 tags: hiking photography
 categories: outdoors
 published: true
 ---
 
-\*\*August 2022
+\*\*mid August 2022
 
 Abisko National Park to Kebnekaisa
 
