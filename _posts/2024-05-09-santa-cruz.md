@@ -1,21 +1,24 @@
 ---
 layout: post
-title: Peru
-date: 2015-03-15 16:40:16
+title: Santa Cruz Circuit, Huaraz, Peru
+date: 2024-05-08 16:40:16
 description: Santa Cruz trek May 2022
-tags: hiking
+tags: hiking photography
 categories: outdoors
 published: true
 ---
 
-May 2022
+\*\*May 2022
+
 Santa Cruz Trek, Cordillera Blanca Range, Peru
-30 miles/
-Best time to visit: May-August
+
+27 miles / 43 km
+
+Best time to visit: May-August\*\*
 
 Delta airlines almost ruined my entire trip. My flight was from Pittsburgh to Fort Lauderdale to Lima. My flight was delayed so I missed my connection to Lima, and Fort Lauderdale only has one flight that runs to Lima daily. Delta did book me a hotel room at 11 pm, and they booked me an Uber to the hotel, but when I got there, the hotel attendant informed me that I had already checked in so she was not able to check me into my room. Long story short, I had to pay out of pocket and then fight with Delta to give me a refund on the booking and finally went to bed at 1 am for my 8 am flight the next morning. I got to Lima really sleep deprived, and then I got to Huaraz really sleep deprived. As I am writing this from memory in May 2024, I honestly don’t think I ever really recovered because I am still tired. I also rarely now fly Delta and am loyal to United airlines true and true.
 
-To get to Huaraz from Lima, there are several overnight bus options you can take. You have to book the ticket online beforehand, and I went with [Cruz del Sur] [link cruz del sur website](https://www.cruzdelsur.com.pe/). There used to be an airport in Huaraz that had weekly (?) flights, but this service was not available when I went in May 2022.
+To get to Huaraz from Lima, there are several overnight bus options you can take. You have to book the ticket online beforehand, and I went with [Cruz del Sur](https://www.cruzdelsur.com.pe/). There used to be an airport in Huaraz that had weekly (?) flights, but this service was not available when I went in May 2022.
 
 In Huaraz, I stayed at the Krusty Hostel and El Jacal Backpacker. Both were fine, and I think both allow luggage storage if needed. You can also arrange with various tour guides in the town center for day trips around the area. I didn't do this, so I have no personal comments, but my friends have gone to Laguna Paron and thought it was nice. However, we all prefer remote hikes, and we would rather have the flexibility to set our own schedules which the tours do not allow.
 
