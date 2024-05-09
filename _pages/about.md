@@ -29,7 +29,7 @@ My ultimate goal is to increase our understanding of the climate system through 
 1. How can we use AI and coupled human-environmental data to optimally allocate water resources under environmental, social, and economic constraints?
    The term "water resources" is intentionally vague and includes groundwater, streamflow predictions, glacial water loss, precipitation prediction, amongst other forms of freshwater.
 
-How can we predict future glacial water loss?
+- How can we predict future glacial water loss?
 
 2. What are the long term effects on the Atlantic Meriodonal Circulation (AMOC) due to Arctic ice melt?
 
