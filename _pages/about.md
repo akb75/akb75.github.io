@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student in AI & Robotics @ Mila/UdeM
+subtitle: scientific computing, climate dynamics, uncertainty quantification
 
 profile:
   align: right
@@ -20,17 +20,33 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I graduated from the University of Pittsburgh with a degree in applied math, and am currently at the University of British Columbia. My intention is to pursue a PhD to become a climate scientist with the goal of providing information to policy makers to incite actionable change. I have many, many interests that only seem to be growing. My ultimate goal is to increase our understanding of the climate system through scientific computing. Questions that peak my curioisty include:
-I am most interested in studying climate tipping points related to Arctic ice melt (long term effects on the Southern Ocean from ice melt), water scarcity issues (groundwater scarcity, water loss from glaciers, streamflow predictions, global modeling of water resources, microplastics in waste-water), modeling extreme weather events (floods, droughts)
+I graduated from the [University of Pittsburgh][pitt] with a degree in applied math, and am currently at the [University of British Columbia][ubc]. My intention is to pursue a PhD to become a climate scientist with the goal of providing information to policy makers to incite actionable change.
 
-climate tipping points related to the Atlantic Meriodonal Overturning Circulation (AMOC) and the Arctic,
+I have many, many interests that only seem to be growing. In the past, I was heavily involved in research centered around bioengineering, chemical engineering, and mathematical biology. I became interested in climate problems from a trip to the Cordillera Blanca range in Huaraz, Peru. Read here!
 
-I graduated from the University of Pittsburgh in May 2023 with a degree in applied math and related coursework in computer science. My intention is to pursue a masters degree in mathematics to transition into the field of climate dynamics. In this realm, I am interested in modeling complex mathematical problems related atmospheric science, hydrology, or oceanography. In particular, my interests are broad and stem across researching Arctic-ocean ice interactions, climate tipping points, or water scarcity issues. I hope to hone in on a specific problem during my masters, and my ultimate goal is to pursue a PhD to become a climate scientist.
+My ultimate goal is to increase our understanding of the climate system through scientific computing. I enjoy working on interesting, complex problems. I feel it is best to detail my interests in terms of questions that peak my curiosity.
 
-My undergrad was at the [Univeristy of Toronto][uoft] where I studied CS & Math, and also worked
+1. How can we use AI and coupled human-environmental data to optimally allocate water resources under environmental, social, and economic constraints?
+   The term "water resources" is intentionally vague and includes groundwater, streamflow predictions, glacial water loss, precipitation prediction, amongst other forms of freshwater.
 
-I've also worked on a couple of fun coding projects which you can look at via my [github profile][gh]. [nyresume][cv]
+How can we predict future glacial water loss?
 
-[cv]: /cv.pdf
-[uoft]: https://www.utoronto.ca/
-[gh]: https://github.com/akb75
+2. What are the long term effects on the Atlantic Meriodonal Circulation (AMOC) due to Arctic ice melt?
+
+3. How can we better model extreme weather events such as floods and droughts? Uncertainty quantification
+
+4. Sustainable agriculture sentinel data
+
+5. Microplastics in waste-water
+
+In my free time, I enjoy backpacking to remote destinations around the world. I am also a duathlete (trying to get back into tri), climber, and avid reader.
+
+Currently, I am working on grad-school apps, building this website, and learning lead-climbing.
+
+# [cv]: /cv.pdf
+
+[pitt]: https://www.pitt.edu/
+
+# [gh]: https://github.com/akb75
+
+[ubc]: https://www.ubc.ca/
