@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I graduated from the [University of Pittsburgh][pitt] with a degree in applied math, and am currently at the [University of British Columbia][ubc]. My intention is to pursue a PhD to become a climate scientist with the goal of providing information to policy makers to incite actionable change.
 
-I have many, many interests that only seem to be growing. In the past, I was heavily involved in research centered around bioengineering, chemical engineering, and mathematical biology. I became interested in climate problems from a trip to the Cordillera Blanca range in Huaraz, Peru. Read here!
+I have many, many interests that only seem to be growing. In the past, I was heavily involved in research centered around bioengineering, chemical engineering, and mathematical biology. I became interested in climate problems from a trip to the Cordillera Blanca range in Huaraz, Peru. Read [here][huaraz]!
 
 My ultimate goal is to increase our understanding of the climate system through scientific computing. I enjoy working on interesting, complex problems. I feel it is best to detail my interests in terms of questions that peak my curiosity.
 
@@ -45,3 +45,5 @@ Currently, I am working on grad-school apps, building this website, and learning
 
 [pitt]: https://www.pitt.edu/
 [ubc]: https://www.ubc.ca/
+
+[huaraz]:

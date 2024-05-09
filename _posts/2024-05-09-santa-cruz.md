@@ -16,6 +16,8 @@ Santa Cruz Trek, Cordillera Blanca Range, Peru
 
 Best time to visit: May-August\*\*
 
+This post exclusively talks about hiking the Santa Cruz circuit. To read about the history of Huaraz, go here.
+
 Delta airlines almost ruined my entire trip. My flight was from Pittsburgh to Fort Lauderdale to Lima. My flight was delayed so I missed my connection to Lima, and Fort Lauderdale only has one flight that runs to Lima daily. Delta did book me a hotel room at 11 pm, and they booked me an Uber to the hotel, but when I got there, the hotel attendant informed me that I had already checked in so she was not able to check me into my room. Long story short, I had to pay out of pocket and then fight with Delta to give me a refund on the booking and finally went to bed at 1 am for my 8 am flight the next morning. I got to Lima really sleep deprived, and then I got to Huaraz really sleep deprived. As I am writing this from memory in May 2024, I honestly don’t think I ever really recovered because I am still tired. I also rarely now fly Delta and am loyal to United airlines true and true.
 
 To get to Huaraz from Lima, there are several overnight bus options you can take. You have to book the ticket online beforehand, and I went with [Cruz del Sur](https://www.cruzdelsur.com.pe/). There used to be an airport in Huaraz that had weekly (?) flights, but this service was not available when I went in May 2022.
@@ -40,3 +42,5 @@ Day 2: halfway to Punta Union pass to Taullipampa 6 miles
 Day 2 is the hardest day because it is mostly uphill, and you reach the pass. I started my day at 6:30 am.
 
 Day 3: Taullipampa to Cashapampa, Cashapampa to Huaraz do 13 miles
+
+All posts are written and edited by me and represent my unique experiences.

@@ -1,26 +1,21 @@
 ---
 layout: post
-title: Paris, France
+title: water scarcity in Huaraz
 date: 2022-08-02 12:40:16
-description: a couple days in Paris (twice)!
-tags: city
-categories: city
+description: Lake Palcacocha
+tags: science
+# categories: water
 published: true
 ---
 
-\*\*
-August 2017
-December 2018
+\*\*August 2022
 
-Paris
+Stockholm
 
 Best time to visit: May-August\*\*
 
 Story
 Museums
-
-d'orsay
-
 Hostel
 
 All posts are written and edited by me and represent my unique experiences.
