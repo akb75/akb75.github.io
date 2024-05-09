@@ -43,10 +43,5 @@ In my free time, I enjoy backpacking to remote destinations around the world. I 
 
 Currently, I am working on grad-school apps, building this website, and learning lead-climbing.
 
-# [cv]: /cv.pdf
-
 [pitt]: https://www.pitt.edu/
-
-# [gh]: https://github.com/akb75
-
 [ubc]: https://www.ubc.ca/
