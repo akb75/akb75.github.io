@@ -26,7 +26,7 @@ In Huaraz, I stayed at the Krusty Hostel and El Jacal Backpacker. Both were fine
 
 Below is a rough draft of the trip report I wrote for some friends to follow who ended up using the Santa Cruz trek as an acclimatization hike for the Cordillera Huayhuash circuit! My original plan - if I had the time - was to hike this, but it requires a good amount of acclimatization time and is longer than the Santa Cruz trek. I want to say it requires at least 10 days for the circuit, and then 3 days for acclimatization. With an extra day just in case, the trip would be about 2 weeks.
 
-ADD GARMIN MAP HERE
+<iframe src="https://www.google.com/maps/d/embed?mid=1aFBzZl06uV4HKrDjGyeTfu4K-b73ADo&ehbc=2E312F" width="640" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Bus to Vaqueria
 The access to the trail head is quite a way out of town. I had read previous blogs on hikers being able to hike the day they started in Huaraz, but I was unable to do this, and I also do not recommend this option. I got to Vaqueria in the evening after a day of travel.
