@@ -41,7 +41,7 @@ I used chlorine tabs which are a true pain, but I was glad to do so because ther
 
 Below is a rough draft of the trip report I wrote for some friends to follow who ended up using the Santa Cruz trek as an acclimatization hike for the Cordillera Huayhuash circuit! My original plan - if I had the time - was to hike this, but it requires a good amount of acclimatization time and is longer than the Santa Cruz trek. I want to say it requires at least 10 days for the circuit, and then 3 days for acclimatization. With an extra day just in case, the trip would be about 2 weeks.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1aFBzZl06uV4HKrDjGyeTfu4K-b73ADo&ehbc=2E312F" width="600" height="440" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1aFBzZl06uV4HKrDjGyeTfu4K-b73ADo&ehbc=2E312F" width="400" height="240" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 You can access the gpx file for my website on this [Google drive](https://drive.google.com/drive/folders/15EfSs-t0rEfvqYgS36IsK2gOdrNu4UF_?usp=sharing). The gpx route doesn't include waypoints, but the track is very easy to follow. I carry a Garmin in-reach mini for all my hikes.
 
@@ -63,5 +63,3 @@ Day 2 is the hardest day because it is mostly uphill, and you reach the pass. I 
 
 **Day 3: Taullipampa to Cashapampa, Cashapampa to Huaraz do 13 miles**
 <span style="font-size:smaller;">**13 miles / 20.9 km**</span>
-
-All posts are written and edited by me and represent my unique experiences.
