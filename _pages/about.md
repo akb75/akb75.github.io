@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: scientific computing, uncertainty quantification, climate dynamics
+subtitle: uncertainty quantification
 
 profile:
   align: right
