@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: uncertainty quantification
+subtitle: uncertainty quantification, modeling climate disasters
 
 profile:
   align: right
@@ -25,7 +25,7 @@ My long-term plan is to become a climate scientist to provide information to pol
 
 In this realm, I have many, many interests that only seem to be growing. In the past, I was heavily involved in research centered around bioengineering, chemical engineering, and mathematical biology. I became interested in climate problems from a [trip](https://akb75.github.io/2022/08/02/huaraz-info.html) to the Cordillera Blanca range in Huaraz, Peru.
 
-My ultimate goal is to increase our understanding of the complex climate system through scientific computing and advanced numerical modeling. I enjoy working on problems that address humanitarian issues. I feel it is best to detail my interests in terms of questions that peak my curiosity. I am also open to other research topics as well.
+My ultimate goal is to increase our understanding of the complex climate system through scientific computing and advanced numerical modeling. I enjoy working on problems that address humanitarian issues. 
 
 - How can we use numerical modeling to optimally allocate water resources under environmental, social, and economic constraints?
   The term "water resources" is intentionally vague and includes groundwater, streamflow predictions, glacial water loss, precipitation prediction, amongst other forms of freshwater.
