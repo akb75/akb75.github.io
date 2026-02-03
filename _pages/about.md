@@ -20,21 +20,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <!-- prettier-ignore -->
-I graduated from the [University of Pittsburgh][pitt] with a degree in applied math, and am currently at the [University of British Columbia][ubc].
-My long-term plan is to become a climate scientist to provide information to policy makers to promote actionable change.
+I graduated from the [University of Pittsburgh][pitt] with a degree in applied mathematics in 2023. I am currently obtaining my Bachelor of Science in Nursing at the Idaho State University. Upon graduating, my goal is to obtain a new graduate nurse position at an Intensive Care Unit as an ICU nurse. My estimated graduation date is May 2027. I will take the NCLEX at the end of May 2027. 
 
-In this realm, I have many, many interests that only seem to be growing. In the past, I was heavily involved in research centered around bioengineering, chemical engineering, and mathematical biology. I became interested in climate problems from a [trip](https://akb75.github.io/2022/08/02/huaraz-info.html) to the Cordillera Blanca range in Huaraz, Peru in May 2022.
+In my free time, I enjoy hiking in remote destinations around the world. I am also a triathlete, climber, and avid reader. I enjoy cooking and baking, and might even bring baked goods for my coworkers from time to time (if allowed)!
 
-My ultimate goal is to increase our understanding of the complex climate system through scientific computing and advanced numerical modeling. I enjoy working on problems that address humanitarian issues. 
+Why nursing? 
+During my undergraduate math degree, I was heavily involved in research in bioengineering and chemical engineering. Although this work was not directly patient-facing, my past research project "Esophagel" is currently used on patients with esophagus cancer at UPMC by Dr. Blair Jobe. While I value the impact of research, I found myself missing the immediacy of patient care, and the ability to make a difference in patients' lives on a daily basis. This motivated my transition into nursing. 
 
-  Subquestions to this broad topic would be:
-  - How can we use numerical modeling to optimally allocate water resources under environmental, social, and economic constraints?
-  - How can we predict future glacial water loss?
-  - How can computational fluid dynamics (CFD) be used to model the behavior and distribution of microplastics?
-- What are the long term effects on the Atlantic Meriodonal Circulation (AMOC) due to Arctic ice melt?
-- How can we better model extreme weather events such as floods and droughts?
+Why ICU? 
+As a systems thinker, I am drawn to complex physiology and want to understand "why" things happen. Perhaps this is a natural curiosity, or perhaps this is a result of my mathematical training. In the ICU, patient care requires continous monitoring of data with rapidly evolving clinical status. I am motivated by this level of complexity and responsibility. Additionally, in 2025, I was a mountain mentor with the British Columbia Mountaineering Club, a role that strengthened my leadership capabilities, teamwork, and support my mentees in high-risk alpine environments. 
 
-In my free time, I enjoy hiking in remote destinations around the world. I am also a triathlete, climber, and avid reader.
+I anticipate that for the next 3-5 years, I will be working as an intensive care nurse and deepening my understanding of critical illness. 
+
+
 
 [pitt]: https://www.pitt.edu/
 [ubc]: https://www.ubc.ca/

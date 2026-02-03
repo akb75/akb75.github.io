@@ -5,7 +5,7 @@ date: 2022-08-02 12:40:16
 description: a couple days in Stockholm
 tags: travel
 categories: city history travel
-published: true
+published: false
 ---
 
 \*\*August 2022

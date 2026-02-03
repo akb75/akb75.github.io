@@ -6,7 +6,7 @@ description: Lake Palcacocha
 tags: science travel photography
 thumbnail: assets/img/peru/DSC_5061.jpg
 # categories: water
-published: true
+published: false
 ---
 
 **History**

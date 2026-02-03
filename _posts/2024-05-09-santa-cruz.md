@@ -5,7 +5,7 @@ date: 2022-05-12 16:40:16
 description: Santa Cruz trek May 2022
 tags: hiking photography
 categories: outdoors
-published: true
+published: false
 ---
 
 **May 12, 2022**
